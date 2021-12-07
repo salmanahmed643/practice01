@@ -1,9 +1,9 @@
-import React from 'react';
 import { Container, Row } from 'react-bootstrap';
 import './Banner.css';
 import paymentImage01 from '../../../images/payimg01.jpg';
 
 const Banner = () => {
+
 
    
     return (
@@ -11,7 +11,7 @@ const Banner = () => {
             <section className="banner_bg mt-5">
                 <Container>
                     <div className="main_hero_container mt-5">
-                        <Row className="d-flex justify-content-center align-items-center g-5">
+                        <Row className="g-5 d-flex justify-content-center align-items-center">
                             <div className="col-12 col-md-6 banner_left_side">
                                 <h1 className="main_title text-capitalize">
                                     simple online payment <br />

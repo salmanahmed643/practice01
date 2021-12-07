@@ -1,0 +1,37 @@
+.work_info {
+    border-right: 5px solid transparent;
+    border-radius: 10px;
+    transition: all .5s ease;
+    padding: 3rem 1rem;
+}
+
+.work_info:nth-child(2) {
+    background-color: var(--bgcolor);
+    transform: scale(1.03);
+    border-right: 5px solid var(--primary-color);
+    border-radius: 20px;
+    z-index: 1;
+}
+.work_info:nth-child(2):hover {
+    background-color: transparent;
+}
+.work_info:hover {
+    background-color: var(--bgcolor);
+    transform: scale(1.03);
+    border-right: 5px solid var(--primary-color);
+    border-radius: 20px;
+    z-index: 2;
+}
+
+.main_title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+.fontAwsome_style {
+    font-size: 2rem;
+}
+.main_info {
+    font-size: 1.6rem;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}

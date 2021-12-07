@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-cloud-download-alt",
+        "title": "Download App",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Complete the Instruction",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-donate",
+        "title": "Receive your money",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    }
+]
