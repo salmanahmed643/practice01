@@ -1,0 +1,17 @@
+[
+    {
+        "number": 1,
+        "title": "Sign in",
+        "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum sunt accusantium sequi blanditiis sapiente sit voluptatibus quo dolores voluptates facilis!"
+    },
+    {
+        "number": 2,
+        "title": "Add your bank account",
+        "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum sunt accusantium sequi blanditiis sapiente sit voluptatibus quo dolores voluptates facilis!"
+    },
+    {
+        "number": 3,
+        "title": "Send payment request",
+        "des": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum sunt accusantium sequi blanditiis sapiente sit voluptatibus quo dolores voluptates facilis!"
+    }
+]

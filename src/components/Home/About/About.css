@@ -1,0 +1,19 @@
+.number {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    background-color: var(--primary-color);
+    font-weight: bold;
+    font-size: 1.4rem;
+    border-radius: 50%;
+    color: #fff;
+}
+.about_card .main_title {
+    font-size: 1.5rem;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+
+.about_card:hover h3 {
+    text-decoration: underline;
+}

@@ -14,6 +14,7 @@ const HowItWorks = () => {
         <>
             <section className="howIt_bg">
                 <Container>
+                    <div className="text-center"><h1 className="main_section_title"> How does it work </h1></div>
                     <Row className="work_cart justify-content-center align-items-center g-5">
                         {
                             works.map(work => <HowItWork

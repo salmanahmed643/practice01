@@ -24,9 +24,8 @@
 }
 
 .main_title {
-    font-size: 2rem;
-    font-weight: bold;
-    margin: 1rem 0;
+    font-size: 1.8rem;
+    margin: 2rem 0;
 }
 .fontAwsome_style {
     font-size: 2rem;
@@ -34,4 +33,8 @@
 .main_info {
     font-size: 1.6rem;
     font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.fontAwsome_style {
+    color: var(--primary-color);
 }

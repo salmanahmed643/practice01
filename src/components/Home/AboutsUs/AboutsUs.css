@@ -1,0 +1,16 @@
+.about_section {
+    margin: 5rem 0 10rem 0;
+
+}
+.about_img {
+    border-radius: 2rem;
+}
+.about_img img {
+    border-radius: 2rem;
+    transition: all .7s ease-in-out;
+}
+
+.about_img img:hover {
+    transform: scale(1.05);
+    border-radius: 2rem;
+}
