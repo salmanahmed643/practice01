@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "fas fa-cloud-download-alt",
+        "title": "Free register",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 2,
+        "icon": "fas fa-chalkboard-teacher",
+        "title": "Identify yourself",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 3,
+        "icon": "fas fa-donate",
+        "title": "Add recipient's bank details",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 4,
+        "icon": "fas fa-donate",
+        "title": "Pay your Transfer",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 5,
+        "icon": "fas fa-donate",
+        "title": "Choose an amount to send",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    },
+    {
+        "id": 6,
+        "icon": "fas fa-donate",
+        "title": "Finished",
+        "info": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus iusto quae maiores aspernatur dicta reprehenderit, culpa quas! Repudiandae sed quis commodi nulla incidunt explicabo ipsum!"
+    }
+]

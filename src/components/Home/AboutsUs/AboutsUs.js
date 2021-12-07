@@ -14,7 +14,7 @@ const AboutsUs = () => {
     }, []);
     return (
         <>
-            <section className="common_section about_section">
+            <section className="about_section">
                 <Container>
                     <Row className="justify-content-center align-items-center g-5">
                         <div className="col-12 col-lg-6 text-center about_img overflow-hidden">

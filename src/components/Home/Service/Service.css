@@ -1,0 +1,22 @@
+.service_card {
+    border-radius: 2rem;
+}
+
+.iconAwesome {
+    font-size: 2rem;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 5rem;
+    height: 5rem;
+    line-height: 5rem;
+    border-radius: 50%;
+    transition: all .7s ease-in-out;
+}
+
+.service_card:hover .iconAwesome {
+    border-bottom: 5rem solid rgb(61, 61, 61, .1);
+}
+
+.service_card .main_info {
+    font-size: 1.5rem;
+}
