@@ -5,7 +5,7 @@
 
 
 
-.main_title {
+.banner_main_title {
     font-size: 4rem;
 }
 
@@ -17,6 +17,11 @@
 .input_group {
     position: relative;
 }
+
+.input_group input::placeholder {
+    color: var(--primary-color);
+}
+
 .form_control_text {
     position: absolute;
     height: 5rem;
@@ -25,7 +30,6 @@
     font-size: 1.4rem;
     font-family: 'Baloo Bhaijaan 2', cursive;
     border: .5px solid var(--primary-color);
-
 }
 
 .input_group_button {

@@ -7,10 +7,11 @@
     font-size: 1.4rem;
     border-radius: 50%;
     color: #fff;
-    transition: all .4s ease;
+    transition: all .5s ease-in-out;
+    z-index: 2;
 }
 .number:hover {
-    border-bottom: 1.2rem solid crimson;
+    border-bottom: 1.5rem solid rgb(61, 61, 61, .1);
 }
 
 .about_card .main_title {

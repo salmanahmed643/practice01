@@ -1,0 +1,44 @@
+.contact_section {
+    margin: 10rem 0;
+}
+
+.contact_form input, .form-control:focus {
+    border: .1px solid rgba(22, 160, 133, .3);
+    outline: none;
+    box-shadow: none;
+}
+.contact_form input, .form-control:focus:hover {
+    border: .1px solid rgba(22, 160, 133, .8);
+}
+
+
+.contact_form input {
+    background-color: var(--bgcolor);
+    padding: 1rem;
+    font-size: 1.4rem;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    border: .1px solid rgba(22, 160, 133, .3);
+    color: var(--primary-color);
+    border-radius: 1rem;
+    transition: all .4s ease-in-out;
+}
+
+.contact_form input::placeholder {
+    color: var(--primary-color);
+}
+.contact_form input:hover {
+    border: .1px solid rgba(22, 160, 133, .8);
+}
+
+
+.form-control {
+    background-color: var(--bgcolor);
+    font-size: 1.4rem;
+    border-radius: 1rem;
+    border: .1px solid rgba(22, 160, 133, .3);
+    resize: none;
+}
+
+.form-control::placeholder {
+    color: var(--primary-color);
+}
