@@ -5,6 +5,7 @@ import HowItWorks from '../HowItWorks/HowItWorks';
 import AboutsUs from '../AboutsUs/AboutsUs';
 import Services from '../Services/Services'
 import Contact from '../Contact/Contact';
+import Footer from '../../Shared/Footer/Footer';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <AboutsUs/>
             <Services/>
             <Contact/>
+            <Footer/>
         </>
     );
 };
