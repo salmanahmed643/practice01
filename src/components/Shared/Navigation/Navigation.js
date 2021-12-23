@@ -7,7 +7,7 @@ const Navigation = () => {
         <>
             <div className="nav_main_logo">
                 <div className="text-center nav_main_logo">
-                    <Navbar.Brand href="/" className="nav_logo">De<span className="logo_split">mo.</span></Navbar.Brand>
+                    <Navbar.Brand href="/" className="nav_logo">Lo<span className="logo_split">Go.</span></Navbar.Brand>
                 </div>
                 <section className="navbar_bg">
                     <Navbar expand="md">
